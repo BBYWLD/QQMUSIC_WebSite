@@ -1,0 +1,8 @@
+/* 公共样式 */
+
+/* 1200 居中 */
+.mid-1200{
+    width:1200px;
+    height:auto;
+    margin:0 auto;
+}
